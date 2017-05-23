@@ -1,7 +1,7 @@
 {
   "name": "atom-material-extended-syntax",
   "theme": "syntax",
-  "version": "0.4.6",
+  "version": "0.5.0",
   "description": "A fork of Atom Material Syntax with extended syntax styling",
   "keywords": [
     "syntax",
